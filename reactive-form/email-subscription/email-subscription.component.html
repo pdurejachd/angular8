@@ -1,0 +1,14 @@
+<div>
+    <span>Subscribe to our new letter </span>
+    <label>Enter your Email: </label>
+    <input type="text" [formControl]="email"/>
+    <button (click) = "subscribeUser()" >Subscribe</button>     
+</div>
+
+<div>
+   
+</div>
+
+<p *ngIf=subscriberEmail>
+Thanks ! Your Email {{subscriberEmail}} is now registered with us. 
+</p>
