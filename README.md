@@ -1,5 +1,9 @@
 ## Angular8 Snippets
 
+* Angular Routing
+
+  ![ROUTING](/images/routing.png)
+
 * Working with Forms
   * Reactive Forms
     * Import ReactiveFormsModule to app.module.ts
