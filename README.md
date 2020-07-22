@@ -1,19 +1,22 @@
 ## Angular8 Bookmarks & Snippets
 
 ```
-Angular Routing
+ANGULAR ROUTING
 ```
 * ARTICLES
   * https://www.tutorialandexample.com/routing-in-angular-8/
   * https://www.tutorialspoint.com/angular7/angular7_routing.htm
   * https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/
   
-* YOUTUBE  
-  * https://www.youtube.com/watch?v=tUCa3JcFILI
-  * https://www.youtube.com/watch?v=Nehk4tBxD4o
+* YOUTUBE
+  
+  DESCRIPTION | LINK
+  ----------- | ----
+  Programming with Mosh | https://www.youtube.com/watch?v=tUCa3JcFILI
+  Codeevolution | https://www.youtube.com/watch?v=Nehk4tBxD4o
   
 ```
-Working with Forms
+WORKING WITH FORMS
 ```
 * Reactive Forms
   * Import ReactiveFormsModule to app.module.ts
