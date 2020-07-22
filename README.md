@@ -1,7 +1,9 @@
 ## Angular8 Bookmarks & Snippets
 
 * Angular Routing
-  * https://blog.angular-university.io/angular-2-router-nested-routes-and-nested-auxiliary-routes-build-a-menu-navigation-system/
+  * https://www.tutorialandexample.com/routing-in-angular-8/
+  * https://www.tutorialspoint.com/angular7/angular7_routing.htm
+  * https://www.youtube.com/watch?v=tUCa3JcFILI
   * https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/
 
 
