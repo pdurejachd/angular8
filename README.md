@@ -1,8 +1,9 @@
-## Angular8 Snippets
+## Angular8 Bookmarks & Snippets
 
 * Angular Routing
+  * https://blog.angular-university.io/angular-2-router-nested-routes-and-nested-auxiliary-routes-build-a-menu-navigation-system/
+  * https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/
 
-  ![ROUTING](/images/routing.png)
 
 * Working with Forms
   * Reactive Forms
